@@ -1,0 +1,18 @@
+#%RAML 1.0
+title: Minha primeira API com especificação RAML
+baseUri: http://localhost:8081
+version: 1.0
+
+/usuarios:
+  get:
+    description: Lista todos os usuários
+  post:
+   description: Cria um novo usuário
+
+  /{idUsuario}:
+    get:
+      description: Recupera um usuário específico por ID
+    put:
+      description: Atualiza dados de um usuários específico por ID
+    delete:     
+      description: Exclui um usuário específico por ID
