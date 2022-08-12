@@ -92,7 +92,7 @@ Nesta seção você encontra os vídeos já publicados e o conteúdo abordado em
   - Postman - REST Client
 - Minha primeira API
   - Hello World
-- 
+  
 ## Aula 0.2 - Design Center + Exchange + Importando API em Anypoint Studio + Postman
 - Requisição HTTP 
 - Métodos HTTP mais comuns
