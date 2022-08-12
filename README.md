@@ -83,14 +83,16 @@ Nesta seção você encontra os vídeos já publicados e o conteúdo abordado em
 - Integração API-Led
 - Ciclo de Vida de Desenvolvimento de API
 - Como Mulesoft apoia cada fase
+  
 ## Aula 0.1 - Setup + Hello World
-- Setup
--- Java 8
--- Maven 
--- Anypoint Studio
--- Postman - REST Client
+- Setup (instalação e configuração)
+  - Java 8
+  - Maven 
+  - Anypoint Studio
+  - Postman - REST Client
 - Minha primeira API
--- Hello World
+  - Hello World
+- 
 ## Aula 0.2 - Design Center + Exchange + Importando API em Anypoint Studio + Postman
 - Requisição HTTP 
 - Métodos HTTP mais comuns
