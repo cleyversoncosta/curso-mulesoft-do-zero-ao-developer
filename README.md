@@ -8,7 +8,7 @@ Todo feedback é muito bem vindo, então esteja a vontade para deixar seus comen
 
 ##  Descrição
 
-[Esse curso não é oficial da Plataforma Mulesoft]
+> Esse curso não é oficial da Plataforma Mulesoft
 
 Hoje, no Brasil, existe uma demanda muito grande de Mulesoft no mercado para um número, ainda, muito baixo de profissionais que conhecem a plataforma.
 
