@@ -2,7 +2,7 @@
 
 Neste curso eu vou ensinar gratuitamente tudo o que conheço de Mulesoft desde o absoluto zero. Vou fazer meu melhor para publicar uma aula por semana (sabado ou domingo) com um conteúdo estruturado e continuado, para que você possa aumentar a cada aula seus conhecimentos em Mulesoft. 
 
-Todo conteúdo vai estar disponível para download no GitHub e em meu Blog [https://cleyversoncosta.com.br/tecnologia/mulesoft](https://cleyversoncosta.com.br/tecnologia/mulesoft).
+Todo conteúdo vai estar disponível para download no GitHub [https://github.com/cleyversoncosta/curso-mulesoft-do-zero-ao-developer](https://github.com/cleyversoncosta/curso-mulesoft-do-zero-ao-developer) e em meu Blog [https://cleyversoncosta.com.br/tecnologia/mulesoft](https://cleyversoncosta.com.br/tecnologia/mulesoft).
 
 Embora não exista nenhum pré-requisito para acompanhar este curso, é interessante ter algum conhecimento básico sobre lógica de programação.
 
