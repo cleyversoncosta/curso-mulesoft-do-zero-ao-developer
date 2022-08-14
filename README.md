@@ -8,58 +8,13 @@ Todo feedback é muito bem vindo, então esteja a vontade para deixar seus comen
 
 ##  Descrição
 
-> Esse curso não é oficial da Plataforma Mulesoft
+Hoje, no Brasil, existe uma demanda muito grande de Mulesoft no mercado para um número ainda muito baixo de profissionais que conhecem a plataforma.
 
-Hoje, no Brasil, existe uma demanda muito grande de Mulesoft no mercado para um número, ainda, muito baixo de profissionais que conhecem a plataforma.
-
-Com a Mulesoft as integrações com todos os outros sistemas podem ser extremamente fáceis e de uma forma escalável muito simples de ser aplicada, por conta dessas soluções práticas da plataforma cada vez mais e mais empresas utilizam Mulesoft como ponto central de suas integrações, abrindo uma lista imensa de oportunidades no mercado.
+Com a Mulesoft as integrações com todos os outros sistemas podem ser extremamente fáceis e de uma forma escalável muito simples de ser aplicada, por conta dessas soluções práticas cada vez mais empresas utilizam Mulesoft como ponto central de suas integrações, abrindo uma lista imensa de oportunidades no mercado.
   
 Aprenda, na prática, as habilidades necessárias para se tornar um Desenvolvedor Mulesoft. Faça parte do mundo Mulesoft, se torne um especialista na plataforma e o conhecimento necessário para novas oportunidades em grandes projetos de integrações entre sistemas.
 
 Esse curso tem como objetivo formar novos desenvolvedores e especialistas Mulesoft.
-
-
-## Mulesoft Básico
-
- - O que é Mulesoft
-   
- - O que é Design Center, Exchange e API Manager
-   
- - Criar especificação da API no Design Center
-   
- - Gerenciar as versões da especificação no Exchange
-   
- - Gerenciar a API no API Manager
-   
- - Configurar o Ambiente de desenvolvimento
-   
- - Criar uma API Rest
-   
- - Fluxos de Desenvolvimento
-   
- -  Componentes Mulesoft
-   
- - Inserir processos em Lote no Banco de dados
-   
- - Programação Dataweave
-   
- - Tratamento de Erros
-   
- - Configurar Políticas de acesso na API
-   
- - Configurar limites de acesso na API
-
-## Mulesoft Avançado
-
-A definir.
-
-## RAML Avançado
-
-A definir.
-
-## Dataweave Avançado
-
-A definir.
 
 ## Para quem é este curso
 
@@ -75,7 +30,7 @@ A definir.
 
 # Aulas
 
-Nesta seção você encontra os vídeos já publicados e o conteúdo abordado em cada aula. 
+Nesta seção você encontra as aulas/vídeos já publicados e o conteúdo abordado em cada aula. 
 
 ## Aula 0.0 - API-Led connectivity
 - Contextualização
