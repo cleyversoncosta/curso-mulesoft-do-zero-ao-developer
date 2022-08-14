@@ -1,10 +1,10 @@
 # Bem-vindo ao curso gratuito de Mulesoft do Zero ao Developer!
 
-Neste curso eu vou ensinar gratuitamente tudo o que conheço de Mulesoft desde o absoluto zero. Vou fazer meu melhor para publicar uma aula por semana (sexta-feira) com um conteúdo estruturado e continuado, para que você possa aumentar a cada aula seus conhecimentos em Mulesoft. Todo conteúdo vai estar disponível para download, para que assim você possa acompanhar de forma mais fácil.
+Neste curso eu vou ensinar gratuitamente tudo o que conheço de Mulesoft desde o absoluto zero. Vou fazer meu melhor para publicar uma aula por semana (sabado ou domingo) com um conteúdo estruturado e continuado, para que você possa aumentar a cada aula seus conhecimentos em Mulesoft. Todo conteúdo vai estar disponível para downloadno GitHub, para que assim você possa acompanhar de forma mais fácil.
 
 Embora não exista nenhum pré-requisito para acompanhar este curso, é interessante ter algum conhecimento básico sobre lógica de programação.
 
-Todo feedback é muito bem vindo, então esteja a vontade para deixar seus comentários nos vídeos do Youtube ou o nosso canal do Slack. Vou fazer o máximo para responder a todos o mais breve possível!
+Todo feedback é muito bem vindo, então esteja a vontade para deixar seus comentários nos vídeos do Youtube ou fazer contato comigo através do LinkedIn [@cleyversoncosta](https://pt.linkedin.com/in/cleyversoncosta). 
 
 ##  Descrição
 
