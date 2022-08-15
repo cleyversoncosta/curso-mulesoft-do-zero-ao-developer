@@ -34,7 +34,7 @@ Esse curso tem como objetivo formar novos desenvolvedores e especialistas Muleso
 
 Nesta seção você encontra as aulas/vídeos já publicados e o conteúdo abordado em cada aula. 
 
-## Aula 0.0 - API-Led connectivity
+## [Aula 0.0 - API-Led connectivity](https://cleyversoncosta.com.br/tecnologia/aula-0-0-mulesoft-api-led-connectivity-3396)
 - Contextualização
 - Integração API - Ponto a Ponto
 - Integração API-Led
