@@ -41,7 +41,7 @@ Nesta seção você encontra as aulas/vídeos já publicados e o conteúdo abord
 - Ciclo de Vida de Desenvolvimento de API
 - Como Mulesoft apoia cada fase
   
-## Aula 0.1 - Setup + Hello World
+## [Aula 0.1 - Setup + Hello World](https://cleyversoncosta.com.br/tecnologia/aula-0-1-setup-dependencias-e-instalacao-do-anypoint-studio-hello-world-3418)
 - Setup (instalação e configuração)
   - Java 8
   - Maven 
