@@ -34,14 +34,14 @@ Esse curso tem como objetivo formar novos desenvolvedores e especialistas Muleso
 
 Nesta seção você encontra as aulas/vídeos já publicados e o conteúdo abordado em cada aula. 
 
-## [Aula 0.0 - API-Led connectivity](https://cleyversoncosta.com.br/tecnologia/aula-0-0-mulesoft-api-led-connectivity-3396)
+## [Aula 1.0 - API-Led connectivity](https://cleyversoncosta.com.br/tecnologia/aula-1-0-mulesoft-api-led-connectivity-3396)
 - Contextualização
 - Integração API - Ponto a Ponto
 - Integração API-Led
 - Ciclo de Vida de Desenvolvimento de API
 - Como Mulesoft apoia cada fase
   
-## [Aula 0.1 - Setup + Hello World](https://cleyversoncosta.com.br/tecnologia/aula-0-1-setup-dependencias-e-instalacao-do-anypoint-studio-hello-world-3418)
+## [Aula 2.0 - Setup + Hello World](https://cleyversoncosta.com.br/tecnologia/aula-2-0-setup-dependencias-e-instalacao-do-anypoint-studio-hello-world-3418)
 - Setup (instalação e configuração)
   - Java 8
   - Maven 
@@ -50,7 +50,7 @@ Nesta seção você encontra as aulas/vídeos já publicados e o conteúdo abord
 - Minha primeira API
   - Hello World
   
-## Aula 0.2 - Design Center + Exchange + Importando API em Anypoint Studio + Postman
+## Aula 3.0 - Design Center + Exchange + Importando API em Anypoint Studio + Postman
 - Requisição HTTP 
 - Métodos HTTP mais comuns
 - Registrando em Anypoint Platform
