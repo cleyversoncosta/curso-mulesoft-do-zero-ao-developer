@@ -58,3 +58,12 @@ Nesta seção você encontra as aulas/vídeos já publicados e o conteúdo abord
 - Exchange - Compartilhando Assets (produtos)
 - Importando especificação em Anypoint Studio
 - Testando com Postman
+
+## Aula 4.0 - Versionamento Semantico + Convenção de Nomes
+- Versionamento Semântico
+- Convenção de nomes
+  - camelCase
+  - PascalCase
+  - snake_case
+  - kebab-case
+
