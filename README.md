@@ -50,7 +50,7 @@ Nesta seção você encontra as aulas/vídeos já publicados e o conteúdo abord
 - Minha primeira API
   - Hello World
   
-## Aula 3.0 - Design Center + Exchange + Importando API em Anypoint Studio + Postman
+## [Aula 3.0 - Design Center + Exchange + Importando API em Anypoint Studio + Postman](https://cleyversoncosta.com.br/tecnologia/aula-3-0-design-center-exchange-importando-api-em-anypoint-studio-postman-3471)
 - Requisição HTTP 
 - Métodos HTTP mais comuns
 - Registrando em Anypoint Platform
@@ -59,9 +59,9 @@ Nesta seção você encontra as aulas/vídeos já publicados e o conteúdo abord
 - Importando especificação em Anypoint Studio
 - Testando com Postman
 
-## Aula 4.0 - Versionamento Semantico + Convenção de Nomes
-- Versionamento Semântico
-- Convenção de nomes
+## [Aula 4.0 - Versionamento Semantico + Convenção de Nomes](https://cleyversoncosta.com.br/tecnologia/aula-4-0-versionamento-semantico-convencao-de-nomes-3481)
+- Versionamento Semântico (semantic versioning)
+- Convenção de nomes (naming conventions)
   - camelCase
   - PascalCase
   - snake_case
