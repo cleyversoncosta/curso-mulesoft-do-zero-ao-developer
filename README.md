@@ -59,6 +59,10 @@ Nesta seção você encontra as aulas/vídeos já publicados e o conteúdo abord
 - Importando especificação em Anypoint Studio
 - Testando com Postman
 
+[Aula 3.1 - Método HTTP PATCH + PATCH x PUT](https://cleyversoncosta.com.br/tecnologia/aula-3-1-metodo-http-patch-diferenca-entre-patch-e-put-3548)
+- Método HTTP PATCH
+- Diferença entre PATCH e PUT
+
 ## [Aula 4.0 - Versionamento Semantico + Convenção de Nomes](https://cleyversoncosta.com.br/tecnologia/aula-4-0-versionamento-semantico-convencao-de-nomes-3481)
 - Versionamento Semântico (semantic versioning)
 - Convenção de nomes (naming conventions)
