@@ -59,7 +59,7 @@ Nesta seção você encontra as aulas/vídeos já publicados e o conteúdo abord
 - Importando especificação em Anypoint Studio
 - Testando com Postman
 
-[Aula 3.1 - Método HTTP PATCH + PATCH x PUT](https://cleyversoncosta.com.br/tecnologia/aula-3-1-metodo-http-patch-diferenca-entre-patch-e-put-3548)
+## [Aula 3.1 - Método HTTP PATCH + PATCH x PUT](https://cleyversoncosta.com.br/tecnologia/aula-3-1-metodo-http-patch-diferenca-entre-patch-e-put-3548)
 - Método HTTP PATCH
 - Diferença entre PATCH e PUT
 
